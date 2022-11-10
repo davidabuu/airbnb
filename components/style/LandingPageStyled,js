@@ -1,0 +1,4 @@
+import styled from "styled-components"
+export const LandingPageImageStyle = styled.div`
+background:url('./png;')
+`
